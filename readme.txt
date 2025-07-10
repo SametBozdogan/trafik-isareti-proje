@@ -14,7 +14,7 @@ Bu proje kapsamında, görüntü işleme ve makine öğrenmesi yöntemleriyle tr
 
 ## Önemli Hususlar
 
-data/ ve models/ dosyası büyük dosya olduğundan ötürü Githuba yüklenmedi. Google drive linki aşağıdadır. data/ ve models/ klasörleri indirildikten sonra ana dizine yerleştirilmelidir.
+data/ ve models/ dosyası büyük dosya olduğundan ötürü Githuba yüklenmedi. Google drive linki aşağıdadır. data/ ve models/ klasörleri indirildikten sonra ana dizine yerleştirilmelidir. Aşağıdaki repo yapısını inceleyebilirsiniz.
 
 
 ## Proje Amacı
@@ -32,11 +32,11 @@ Gerçek yol görüntülerindeki trafik işaretlerini otomatik tanımayı amaçl�
 project_root/
 ├── data/
 │   └── tsinghua_subset/
-├── models/
+├── models/...
 ├── notebooks/
 │   ├── method1_training.ipynb
 │   └── method1_evaluation.ipynb
-├── results/
+├── results/...
 ├── src/
 │   ├── data_loader.py
 │   ├── features.py
