@@ -12,7 +12,9 @@ Dönem   : 2024-25 Yaz
 Bu proje kapsamında, görüntü işleme ve makine öğrenmesi yöntemleriyle trafik işaretlerini sınıflandıran bir sistem geliştirildi. Kullanılan ana veriseti: **Tsinghua-Tencent 100K**'dan alınmış 10.000 örnek içeren bir alt kümedir. Kodlar ve eğitim süreçleri Python ile yazılmıştır; değerlendirme ve görselleştirme adımları ise Jupyter Notebook üzerinde yapılmıştır.
 
 
+## Önemli Hususlar
 
+data/ ve models/ dosyası büyük dosya olduğundan ötürü Githuba yüklenmedi. Google drive linki aşağıdadır. data/ ve models/ klasörleri indirildikten sonra ana dizine yerleştirilmelidir.
 
 
 ## Proje Amacı
