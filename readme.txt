@@ -45,7 +45,7 @@ project_root/
 │   └── eval_method1.py
 ├── annotations_subset.csv
 ├── requirements.txt
-└── README.md
+└── readme.txt
 
 
 
