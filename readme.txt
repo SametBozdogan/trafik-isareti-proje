@@ -15,7 +15,7 @@ Bu proje kapsamında, görüntü işleme ve makine öğrenmesi yöntemleriyle tr
 ## Önemli Hususlar
 
 data/ ve models/ dosyası büyük dosya olduğundan ötürü Githuba yüklenmedi. Google drive linki aşağıdadır. data/ ve models/ klasörleri indirildikten sonra ana dizine yerleştirilmelidir. Aşağıdaki repo yapısını inceleyebilirsiniz.
-https://drive.google.com/drive/folders/1VhDlE-BbuDzy9bvbqEo550UJQf9BrOPb?usp=sharing
+https://mega.nz/file/dNAEhRTS#qlz6PtViMi6an5n0WwSQIj3NhDVR6ZN1mQ03ilmiW00
 
 ## Proje Amacı
 
